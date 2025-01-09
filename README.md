@@ -9,11 +9,8 @@ A simple text editor built with React and TipTap, featuring a custom `HighlightM
 
 ### Watch the demo to see how the editor works:
 
-[Watch the demo here](https://www.youtube.com/watch?v=your-video-id)
+[Watch the demo here]([link](https://drive.google.com/file/d/1gGxwK4fo98e2xkmbbVc6jGKsVkAaJA_y/view?usp=sharing))
 
-Alternatively, here's a quick GIF demo:
-
-![Text Editor Demo](src/assets/demo.gif)
 
 ---
 
