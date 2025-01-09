@@ -9,7 +9,7 @@ A simple text editor built with React and TipTap, featuring a custom `HighlightM
 
 ### Watch the demo to see how the editor works:
 
-[Watch the demo here]([link](https://drive.google.com/file/d/1gGxwK4fo98e2xkmbbVc6jGKsVkAaJA_y/view?usp=sharing))
+[Watch the demo here](https://drive.google.com/file/d/1gGxwK4fo98e2xkmbbVc6jGKsVkAaJA_y/view?usp=sharing)
 
 
 ---
